@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Daniel Brady's First CS193 Homework
+- I enjoy learning more about coding.
+- I also enjoy meeting others within the CS department.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
